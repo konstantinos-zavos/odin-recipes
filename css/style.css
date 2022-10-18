@@ -1,4 +1,4 @@
-/*  Currently, only index.html has css styling */
+/*  Mostly index.html */
 
   .copyright {
     color: red;
@@ -24,4 +24,11 @@
 
   .image {
     text-align: center;
+  }
+
+  /* Recipes styling */
+
+  .titles {
+    background-color: black;
+    color:white
   }
