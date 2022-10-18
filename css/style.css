@@ -8,3 +8,12 @@ div {
   p {
     color: red;
   }
+
+
+  body {
+    text-align: center;
+  }
+
+  a {
+    font-size: 20px;
+  }
